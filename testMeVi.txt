@@ -1,0 +1,13 @@
+Hi world. I am trying this weird editor from the command line.
+Why? Because it seems that some people like it and they will judge you if you can't or don't use it.
+So, let's not only try it, but also master it!
+
+Chao!
+ESC: switch back to command mode
+ESC then v -> to select text visually. When done selecting, ESC then y to copy or ESC then d to cut/delete
+ESC then p -> paste selected text
+ESC then i -> insert text
+ESC then :wq -> save and quit
+ESC then :q! -> quit without saving
+ESC then :help -> to get help
+
